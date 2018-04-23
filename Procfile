@@ -1,1 +1,1 @@
-web: gunicorn auth_demo:app
+web: gunicorn we_are_social.wsgi:application
