@@ -8,7 +8,7 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
-SITE_URL = 'https://final-project-3445.herokuapp.com'
+SITE_URL = 'https://final-project-3445.herokuapp.com/'
 ALLOWED_HOSTS.append('final-project-3445.herokuapp.com')
 
 
