@@ -25,8 +25,7 @@ SECRET_KEY = '5))@9#l$b9#dbv0(8i39ql5zx8bs3^9lm586#pf0j*r*5+%y8j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['final-project-3445.herokuapp.com']
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 INSTALLED_APPS = [
@@ -114,8 +113,6 @@ USE_TZ = True
 
 
 STATIC_URL = '/static/'
-
-SITE_URL='final-project-3445.herokuapp.com'
 
 
 AUTH_USER_MODEL = 'account.User'
