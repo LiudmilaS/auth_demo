@@ -3,11 +3,122 @@
   <component name="ChangeListManager">
     <list default="true" id="0281c242-b3bf-44d2-a094-f3a53f194571" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change beforePath="$PROJECT_DIR$/Procfile.windows" afterPath="" />
       <change beforePath="$PROJECT_DIR$/auth_demo/settings.py" afterPath="$PROJECT_DIR$/auth_demo/settings.py" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BdfFontFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BdfFontFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BmpImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BmpImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BufrStubImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/BufrStubImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ContainerIO.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ContainerIO.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/CurImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/CurImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/DcxImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/DcxImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/EpsImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/EpsImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ExifTags.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ExifTags.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FitsStubImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FitsStubImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FliImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FliImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FontFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FontFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FpxImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/FpxImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GbrImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GbrImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GdImageFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GdImageFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GifImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GifImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GimpGradientFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GimpGradientFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GimpPaletteFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GimpPaletteFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GribStubImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/GribStubImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Hdf5StubImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Hdf5StubImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IcnsImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IcnsImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IcoImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IcoImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Image.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Image.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageChops.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageChops.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageCms.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageCms.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageColor.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageColor.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageDraw.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageDraw.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageDraw2.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageDraw2.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageEnhance.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageEnhance.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFilter.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFilter.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFont.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageFont.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageGrab.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageGrab.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMath.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMath.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMode.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMode.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMorph.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageMorph.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageOps.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageOps.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImagePalette.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImagePalette.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImagePath.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImagePath.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageQt.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageQt.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageSequence.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageSequence.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageShow.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageShow.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageStat.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageStat.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageTk.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageTk.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageTransform.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageTransform.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageWin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImageWin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImtImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/ImtImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IptcImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/IptcImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/Jpeg2KImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/JpegImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/JpegImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/JpegPresets.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/JpegPresets.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/McIdasImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/McIdasImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MicImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MicImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MpegImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MpegImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MpoImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MpoImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MspImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/MspImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/OleFileIO-README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/OleFileIO.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/OleFileIO.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PSDraw.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PSDraw.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PaletteFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PaletteFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PalmImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PalmImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcdImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcdImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcfFontFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcfFontFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcxImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PcxImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PdfImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PdfImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PixarImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PixarImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PngImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PngImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PpmImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PpmImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PsdImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PsdImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PyAccess.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/PyAccess.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SgiImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SgiImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SpiderImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SpiderImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SunImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/SunImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TarIO.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TarIO.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TgaImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TgaImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TiffImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TiffImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TiffTags.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/TiffTags.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WalImageFile.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WalImageFile.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WebPImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WebPImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WmfImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/WmfImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XVThumbImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XVThumbImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XbmImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XbmImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XpmImagePlugin.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/XpmImagePlugin.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/__init__.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_binary.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_binary.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imaging.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imaging.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingcms.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingcms.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingft.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingft.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingmath.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingmath.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingmorph.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingmorph.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingtk.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_imagingtk.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_webp.pyd" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/_webp.pyd" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/features.py" afterPath="$PROJECT_DIR$/auth_env/Lib/site-packages/PIL/features.py" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/DESCRIPTION.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/INSTALLER" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/METADATA" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/RECORD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/WHEEL" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/metadata.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/top_level.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Lib/site-packages/Pillow-3.1.1.dist-info/zip-safe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/createfontdatachunk.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/enhancer.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/explode.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/gifmaker.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/painter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/pilconvert.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/pildriver.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/pilfile.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/pilfont.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/pilprint.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/player.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/thresholder.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/auth_env/Scripts/viewer.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/requirements/base.txt" afterPath="$PROJECT_DIR$/requirements/base.txt" />
-      <change beforePath="$PROJECT_DIR$/settings/base.py" afterPath="$PROJECT_DIR$/settings/base.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +132,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth_demo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            <state relative-caret-position="275">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,7 +166,7 @@
         <entry file="file://$PROJECT_DIR$/settings/staging.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,8 +175,8 @@
       <file leaf-file-name="base.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements/base.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -75,7 +186,7 @@
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -83,11 +194,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+              <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -117,7 +228,7 @@
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -188,11 +299,11 @@
         <option value="$PROJECT_DIR$/requirements/dev.txt" />
         <option value="$PROJECT_DIR$/requirements/staging.txt" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/Procfile.local" />
-        <option value="$PROJECT_DIR$/requirements/base.txt" />
         <option value="$PROJECT_DIR$/settings/base.py" />
+        <option value="$PROJECT_DIR$/requirements/base.txt" />
         <option value="$PROJECT_DIR$/auth_demo/settings.py" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -236,11 +347,6 @@
               <item name="auth_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="auth_demo" type="462c0819:PsiDirectoryNode" />
               <item name="auth_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auth_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auth_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="requirements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,7 +502,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second update" />
     <MESSAGE value="third update" />
-    <option name="LAST_COMMIT_MESSAGE" value="third update" />
+    <MESSAGE value="deploy update" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -692,10 +799,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/settings/staging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements/staging.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -708,52 +841,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings/staging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile.local">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements/base.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth_demo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -766,10 +865,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth_demo/settings.py">
+    <entry file="file://$PROJECT_DIR$/Procfile.local">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="false" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
           <folding />
         </state>
       </provider>
