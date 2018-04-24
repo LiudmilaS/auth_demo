@@ -26,7 +26,7 @@ SECRET_KEY = '5))@9#l$b9#dbv0(8i39ql5zx8bs3^9lm586#pf0j*r*5+%y8j'
 DEBUG = True
 
 # Replace/append your heroku application url here:
-ALLOWED_HOSTS = ['radiant-plains-80286.herokuapp.com']
+ALLOWED_HOSTS = ['final-project-3445.herokuapp.com']
 
 
 INSTALLED_APPS = [
