@@ -1,0 +1,6 @@
+venv
+*.pyc
+staticfiles
+.env
+.env_python2.7
+db.sqlite3
