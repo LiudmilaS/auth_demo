@@ -79,9 +79,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'auth_demo.wsgi.application'
 
 
-DATABASES = {
-    'default': dj_database_url.config('CLEARDB_DATABASE_URL')
-}
+DATABASES = {'default': dj_database_url.config('CLEARDB_DATABASE_URL')}
 
 
 AUTH_PASSWORD_VALIDATORS = [
