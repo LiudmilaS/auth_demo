@@ -80,7 +80,9 @@ WSGI_APPLICATION = 'auth_demo.wsgi.application'
 
 DATABASES = {
     'default':dj_database_url.config('CLEARDB_DATABASE_URL'),
-    'default': {'ENGINE': 'django.db.backends.sqlite3'},
+    'default': {'ENGINE': 'django.db.backends.sqlite3',
+                'NAME': os.path.join(BASE_DIR, 'db.json')
+               }
 }
 
 
