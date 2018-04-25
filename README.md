@@ -45,7 +45,7 @@ Python with Django framework is used for all apps.
   - **Django** is used as a main framework
 - [SQLite](https://www.sqlite.org/index.html)
   - **SQLite**  is used as a backend database for the app
-- [Disqus]()
+- [Disqus](https://disqus.com/profile/signup/intent/)
   -**Disqus** is used for comments section 
   
   
@@ -63,7 +63,7 @@ Python with Django framework is used for all apps.
 3. Install sqlite
 4. Run the following command in your project root directory (after activating the virtualenv): python manage.py migrate
 5. Start project from Pycharm
-6. The project will now run on [localhost](http://127.0.0.1:5000)
+6. The project will now run on [localhost](http://127.0.0.1:8000)
 7. View project deployed at (https://final-project-3445.herokuapp.com/) 
 8. Make changes to the code and if you think it belongs in here then just submit a pull request
 
