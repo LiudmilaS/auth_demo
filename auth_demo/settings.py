@@ -79,7 +79,10 @@ TEMPLATES = [
 WSGI_APPLICATION = 'auth_demo.wsgi.application'
 
 
-DATABASES = {'default': dj_database_url.config('CLEARDB_DATABASE_URL')}
+DATABASES = {'default': dj_database_url.config('CLEARDB_DATABASE_URL'),
+             'ENGINE': 'django.db.backends.sqlite3',
+             'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+             }
 
 
 AUTH_PASSWORD_VALIDATORS = [
