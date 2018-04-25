@@ -1,0 +1,805 @@
+[
+{
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+        "name": "auth_user",
+        "permissions": [
+            [
+                "add_post",
+                "blog",
+                "post"
+            ],
+            [
+                "change_post",
+                "blog",
+                "post"
+            ],
+            [
+                "delete_post",
+                "blog",
+                "post"
+            ],
+            [
+                "add_contenttype",
+                "contenttypes",
+                "contenttype"
+            ],
+            [
+                "change_contenttype",
+                "contenttypes",
+                "contenttype"
+            ],
+            [
+                "delete_contenttype",
+                "contenttypes",
+                "contenttype"
+            ]
+        ]
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 2,
+    "fields": {
+        "name": "administrator",
+        "permissions": [
+            [
+                "add_user",
+                "account",
+                "user"
+            ],
+            [
+                "change_user",
+                "account",
+                "user"
+            ],
+            [
+                "delete_user",
+                "account",
+                "user"
+            ],
+            [
+                "add_logentry",
+                "admin",
+                "logentry"
+            ],
+            [
+                "change_logentry",
+                "admin",
+                "logentry"
+            ],
+            [
+                "delete_logentry",
+                "admin",
+                "logentry"
+            ],
+            [
+                "add_group",
+                "auth",
+                "group"
+            ],
+            [
+                "change_group",
+                "auth",
+                "group"
+            ],
+            [
+                "delete_group",
+                "auth",
+                "group"
+            ],
+            [
+                "add_permission",
+                "auth",
+                "permission"
+            ],
+            [
+                "change_permission",
+                "auth",
+                "permission"
+            ],
+            [
+                "delete_permission",
+                "auth",
+                "permission"
+            ],
+            [
+                "add_contact",
+                "blog",
+                "contact"
+            ],
+            [
+                "change_contact",
+                "blog",
+                "contact"
+            ],
+            [
+                "delete_contact",
+                "blog",
+                "contact"
+            ],
+            [
+                "add_post",
+                "blog",
+                "post"
+            ],
+            [
+                "change_post",
+                "blog",
+                "post"
+            ],
+            [
+                "delete_post",
+                "blog",
+                "post"
+            ],
+            [
+                "add_contenttype",
+                "contenttypes",
+                "contenttype"
+            ],
+            [
+                "change_contenttype",
+                "contenttypes",
+                "contenttype"
+            ],
+            [
+                "delete_contenttype",
+                "contenttypes",
+                "contenttype"
+            ],
+            [
+                "add_flatpage",
+                "flatpages",
+                "flatpage"
+            ],
+            [
+                "change_flatpage",
+                "flatpages",
+                "flatpage"
+            ],
+            [
+                "delete_flatpage",
+                "flatpages",
+                "flatpage"
+            ],
+            [
+                "add_session",
+                "sessions",
+                "session"
+            ],
+            [
+                "change_session",
+                "sessions",
+                "session"
+            ],
+            [
+                "delete_session",
+                "sessions",
+                "session"
+            ],
+            [
+                "add_site",
+                "sites",
+                "site"
+            ],
+            [
+                "change_site",
+                "sites",
+                "site"
+            ],
+            [
+                "delete_site",
+                "sites",
+                "site"
+            ]
+        ]
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "azkwpr4fou6vfskp5a9dapewrhf2mnns",
+    "fields": {
+        "session_data": "OWVkZGNhN2NhOGIzNTdiN2QxZWJhYjgwNzU2Zjg1NTc5ODMxYWY0MTp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg4ZjcxNzUwMjZmZjI2MTFmODlhMmMzNjVhZWY5Y2QzYjk1ODUxM2IiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhY2NvdW50LmJhY2tlbmRzLkVtYWlsQXV0aCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=",
+        "expire_date": "2018-05-09T11:14:33.159Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "e2gsv8hflnhdga3uo5em84x5h2jfn1z7",
+    "fields": {
+        "session_data": "NzQ5ZGJiNzU1NWFiY2I1YmU5NWJmYWNmZjA0MzJhZjYyNDcxYjRkYjp7Il9hdXRoX3VzZXJfaGFzaCI6IjkwM2I4N2YzMjU1NGJkYWY4ZTZkYWRlNDlhMTNhNjI4OTRmZWU5OTMiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJhY2NvdW50LmJhY2tlbmRzLkVtYWlsQXV0aCIsIl9hdXRoX3VzZXJfaWQiOiIxIn0=",
+        "expire_date": "2018-03-21T12:42:44.277Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "pwbv9gyrhfmonkw28ukfsen1cyzqp5wn",
+    "fields": {
+        "session_data": "YWEzZTk1Y2UxNDA5NjM2OTgyMzdmZTU5NGIwODE2MWNmZWRkNzI3YTp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg4ZjcxNzUwMjZmZjI2MTFmODlhMmMzNjVhZWY5Y2QzYjk1ODUxM2IiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=",
+        "expire_date": "2018-03-20T18:02:12.290Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "re2w8qw7czl8xaqaudrtof0889810c78",
+    "fields": {
+        "session_data": "YWEzZTk1Y2UxNDA5NjM2OTgyMzdmZTU5NGIwODE2MWNmZWRkNzI3YTp7Il9hdXRoX3VzZXJfaGFzaCI6Ijg4ZjcxNzUwMjZmZjI2MTFmODlhMmMzNjVhZWY5Y2QzYjk1ODUxM2IiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOiIzIn0=",
+        "expire_date": "2018-04-17T10:45:42.522Z"
+    }
+},
+{
+    "model": "account.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$Vq2dJSqLwTtC$4g5GK2LK2qb2TTmmiiaGcIWhIxhC3H/NyqaWV0FEseo=",
+        "last_login": "2018-03-07T12:42:44.266Z",
+        "is_superuser": false,
+        "username": "liudmila03@gmail.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "liudmila03@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2018-03-05T19:18:43.139Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "account.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$7H2r966Njlh3$WssCdBM0vtICHTDa7FtE/wF47Ds357EiPVQInd5Fwm0=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "cain8ritm@yandex.ru",
+        "first_name": "",
+        "last_name": "",
+        "email": "cain8ritm@yandex.ru",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-03-05T19:54:12.993Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "account.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$36000$Kt8RNYy9s8Gf$e/3VvzIcsriIsLWQVoZCWTctzvpaaMAbVIgfR+c0iSk=",
+        "last_login": "2018-04-25T11:14:33.144Z",
+        "is_superuser": true,
+        "username": "liudmilasergushova@gmail.com",
+        "first_name": "",
+        "last_name": "",
+        "email": "liudmilasergushova@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-03-06T11:07:49.516Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 1,
+    "fields": {
+        "domain": "example.com",
+        "name": "localhost"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 2,
+    "fields": {
+        "domain": "localhost",
+        "name": "localhost"
+    }
+},
+{
+    "model": "sites.site",
+    "pk": 3,
+    "fields": {
+        "domain": "final-project-3445.herokuapp.com",
+        "name": "final-project-3445.herokuapp.com/visa"
+    }
+},
+{
+    "model": "flatpages.flatpage",
+    "pk": 1,
+    "fields": {
+        "url": "/pages/about/",
+        "title": "Visa",
+        "content": "<ul>Documents Required: \r\n<li> Passport </li>\r\n<li>  Electronic visa application form (one per person)</li>\r\n<li>  One photo glued to the form.</li>\r\n<li>  A copy of travel/health insurance policy</li>\r\n<li>  Appropriate payment (in EURO only)</li>\r\n<li> Tourist Visa: A standard \u00abtourist confirmation\u00bb  issued by the authorized host Russian travel agency or the hotel only (hotel booking confirmation cannot serve as the ground for issuing a visa).\r\n\r\n- The documents must contain an applicant's name, passport number, dates and points of arrival and departure, cities to be visited, agency's reference (registration) number.\r\n\r\n- All the information in the documents, as well as the stamps and signatures, must be clearly readable.\r\n</p>\r\n\r\n<p> Useful links: \r\nConsulate in Ireland\r\nhttp://dublin.kdmid.ru/en.aspx?lst=en&it=/Visas.aspx</p>",
+        "enable_comments": false,
+        "template_name": "",
+        "registration_required": false,
+        "sites": [
+            [
+                "localhost"
+            ]
+        ]
+    }
+},
+{
+    "model": "flatpages.flatpage",
+    "pk": 2,
+    "fields": {
+        "url": "/pages/accomodation/",
+        "title": "Accomodation",
+        "content": "<p>Accommodations below divided between Moscow City and Wedding location. For both, I have given three price categories to choose from. These are just examples if you share your preference and we have enough people for group bookings, we will look for further discounts.</p>\r\n<h3>Moscow City</h3>\r\n<li>\u0411\u0443\u0442\u0438\u043a \u041e\u0442\u0435\u043b\u044c \u0410\u0440\u0431\u0430\u0442 6</li>\r\n<li>Hotel \"Mery Poppins\"</li>\r\n<li>Hotel \"77Doors\"</li>\r\n<li>\u041c\u0430\u0440\u043a\u043e \u041f\u043e\u043b\u043e \u041f\u0440\u0435\u0441\u043d\u044f \u041e\u0442\u0435\u043b\u044c \u041e\u0442\u043a\u0440\u043e\u0435\u0442\u0441\u044f \u0432 \u043d\u043e\u0432\u043e\u043c \u043e\u043a\u043d\u0435  </li>\r\n<li>\u0413\u043e\u0441\u0442\u0438\u043d\u0438\u0446\u0430 \u0421\u0440\u0435\u0442\u0435\u043d\u0441\u043a\u0430\u044f</li>\r\n<li>Brick Design \u041e\u0442\u0435\u043b\u044c </li>\r\n<h3> Wedding Location</h3>\r\n<li>http://white-lanes.ru/</li>\r\n<li>\u0412\u0438\u043b\u043b\u0430 \u041b\u0435\u0441\u043d\u043e\u0435 \u043e\u0437\u0435\u0440\u043e</li>\r\n<li>\u041c\u0438\u043d\u0438-\u043e\u0442\u0435\u043b\u044c \u0412\u043e\u0440\u043e\u043d\u043e\u0432\u043e</li>\r\n<li>\u0417\u0430\u0433\u043e\u0440\u043e\u0434\u043d\u044b\u0439 \u041a\u043b\u0443\u0431 \u041b\u0430\u0447\u0438</li>",
+        "enable_comments": false,
+        "template_name": "",
+        "registration_required": false,
+        "sites": [
+            [
+                "localhost"
+            ]
+        ]
+    }
+},
+{
+    "model": "flatpages.flatpage",
+    "pk": 3,
+    "fields": {
+        "url": "/pages/contact/",
+        "title": "Contact",
+        "content": "<h3>Contact Bride&Groom</h3>\r\n<li> Email: liudmila03@gmail.com </li>\r\n<h3> Contact on Wedding Day </h3>\r\n<li> Coordinator tel.: </li>\r\n<li> Best man (EN/SK) tel.: </li>\r\n<li> Bridesmaid (RU) tel.: </li>\r\n<li> Bridesmaid (EN) tel.: </li>\r\n<h3> Venue Contact </h3> \r\n<li> Email: </li>\r\n<li> Phone: </li>\r\n<iframe src=\"https://yandex.ru/map-widget/v1/-/CBqQ5YVgXC\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>",
+        "enable_comments": false,
+        "template_name": "",
+        "registration_required": false,
+        "sites": [
+            [
+                "localhost"
+            ]
+        ]
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 1,
+    "fields": {
+        "author": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "title": "little bit on location",
+        "content": "Hi all!\r\n\r\nFirst things first, if you would love to stay in Moscow a bit longer and explore, but need help with accommodation sharing, let us know and we will try to introduce you to guests in a similar position and help with accommodation search. Hopefully, that can help with costs! \r\n\r\nHere are some our favourite spots in Moscow, which are not always on the first list for tourists, but is worth the visit.\r\n- This website provides a bit pricey, but highly personalised and very interesting, unusual excursions. Join if you like getting of beaten paths. \r\n- Take a red Metro lane and go all the way to \"VDNH\" station, get out and make your way to the queues. This is the favourite spot of locals for walks, rollerskating and even open-air dance classes, great place for a walk and getting the feel of the real city. \r\n- Summer is the best time to explore large parks and old palaces around Moscow. Make your way to \"Zcarizino\" to see how Russian kings used to live centuries ago. \r\n- Try to find metro station excursions, not only they are beautiful, but played a great part in modern history, especially WWII. \r\n- Instead of going to tv-tower for the city view, go to Moscow city. It is closer to city center and views are breathtaking. \r\n- If you are a meat eater go and check out restaurant \"Expedizia\". The place features our love for adventure travel and serves game meat, vegetables, herbs and berries all collected in Siberia and other wild regions of Russia.\r\n - If you check tickets in advance it is 100% worth it going to Bolshoy Theater for Ballet performance.",
+        "created_date": "2018-04-04T14:02:21Z",
+        "published_date": "2018-04-04T14:02:26Z",
+        "views": 24,
+        "tag": null,
+        "image": ""
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 2,
+    "fields": {
+        "author": [
+            "liudmila03@gmail.com"
+        ],
+        "title": "Lost looking for an outfit? Here are few guidelines!",
+        "content": "Hi all!!\r\n\r\nWe realised, that everyone wants to have an amazing and relaxed time during this wedding (especially us! :D)  but also it's a great occasion to wear something fancy. Here are some do's and don'ts for this occasion:\r\n- Do feel welcome to dress up, no need for an evening gown or a tux though.\r\n- Do wear something bright, its a summer wedding after all.\r\n- Do bring smth extra warm with you, weather can get unpredictable and we will be outdoors.\r\n- Don't feel like you must have a tie or high heels unless you really want to.\r\n- Don't forget, there will be a lot of activities and dancing :) \r\n- Please don't be too casual, we want a lot of pictures with all of you!\r\n\r\nCheers, \r\nMila&Peter",
+        "created_date": "2018-04-04T12:52:09Z",
+        "published_date": "2018-03-07T12:42:52Z",
+        "views": 8,
+        "tag": null,
+        "image": ""
+    }
+},
+{
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+        "author": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "title": "Making the playlist",
+        "content": "Hi all!! \r\n\r\nAfter spending hours on YouTube, Spotify etc we still feel like we missing too many songs for this wedding :) \r\nPlease, send us suggestions with your favourite songs in the comments and we will do our best to pass this on to the band/dj so everyone can enjoy their favourite tunes! \r\n\r\nCheers, \r\nMila&Peter",
+        "created_date": "2018-03-07T12:43:08Z",
+        "published_date": "2018-04-04T14:01:36.197Z",
+        "views": 10,
+        "tag": null,
+        "image": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2018-03-06T11:16:48.436Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "2",
+        "object_repr": "localhost",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2018-03-06T11:19:36.343Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- About me",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2018-03-06T11:30:09.390Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- About me",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2018-03-06T19:16:02.976Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "new post",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2018-04-03T10:58:58.480Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "3",
+        "object_repr": "new post",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2018-04-03T11:26:07.358Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- Visa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\", \"content\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2018-04-03T12:57:08.968Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- Visa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"content\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2018-04-03T12:58:00.774Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "1",
+        "object_repr": "/pages/about/ -- Visa",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"content\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2018-04-03T13:25:38.184Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "1",
+        "object_repr": "auth_user",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2018-04-04T12:39:22.556Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "3",
+        "object_repr": "Making the playlist",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\", \"content\", \"image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2018-04-04T12:59:12.207Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "2",
+        "object_repr": "Lost looking for an outfit? Here are few guidelines!",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\", \"content\", \"created_date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2018-04-04T13:16:08.054Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "little bit on location",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"title\", \"content\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2018-04-04T14:02:28.899Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "1",
+        "object_repr": "little bit on location",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"created_date\", \"published_date\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2018-04-04T14:02:49.879Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "blog",
+            "post"
+        ],
+        "object_id": "4",
+        "object_repr": "fshfsz",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2018-04-04T14:59:24.878Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "2",
+        "object_repr": "/pages/accomodation/ -- Accomodation",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2018-04-04T15:05:17.806Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "2",
+        "object_repr": "/pages/accomodation/ -- Accomodation",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2018-04-04T15:11:46.356Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "3",
+        "object_repr": "/pages/contact/ -- Contact",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2018-04-04T15:13:38.861Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "3",
+        "object_repr": "/pages/contact/ -- Contact",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"content\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2018-04-20T14:53:41.580Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "1",
+        "object_repr": "auth_user",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2018-04-20T14:53:58.032Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "auth",
+            "group"
+        ],
+        "object_id": "2",
+        "object_repr": "administrator",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2018-04-25T10:29:03.442Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "flatpages",
+            "flatpage"
+        ],
+        "object_id": "3",
+        "object_repr": "/pages/contact/ -- Contact",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2018-04-25T10:45:58.698Z",
+        "user": [
+            "liudmilasergushova@gmail.com"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "3",
+        "object_repr": "final-project-3445.herokuapp.com",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
