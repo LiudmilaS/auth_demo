@@ -136,7 +136,7 @@ STATICFILES_DIRS = (
 )
 
 DISQUS_WEBSITE_SHORTNAME = 'myfinalproject'
-SITE_ID = 6
+SITE_ID = 3
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
