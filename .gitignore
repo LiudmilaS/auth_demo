@@ -5,3 +5,4 @@ staticfiles
 .env_python2.7
 .idea
 .vscode
+db.sqlite3
