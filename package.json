@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/LiudmilaS/auth_demo#readme",
   "dependencies": {
-    "bower": "^1.8.4"
+    "bower": "^1.8.8"
   }
 }
