@@ -24,7 +24,7 @@ requests==2.18.4
 setuptools==38.5.1
 six==1.10.0
 stripe==1.79.1
-urllib3==1.22
+urllib3==1.26.5
 views==0.3
 wheel==0.24.0
 whitenoise==3.2
